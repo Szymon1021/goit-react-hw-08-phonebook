@@ -1,0 +1,14 @@
+.list__elem {
+  padding: 5px, 20px, 5px, 0;
+  text-decoration: none;
+  display: flex;
+
+  align-items: flex-start;
+}
+.name {
+  min-width: 130px;
+}
+.number {
+  margin-right: 20px;
+  min-width: 130px;
+}

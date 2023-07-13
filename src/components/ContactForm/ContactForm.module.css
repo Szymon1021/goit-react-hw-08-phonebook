@@ -1,0 +1,20 @@
+.add {
+  background-color: red;
+}
+.form {
+  margin: 10px;
+  display: flex;
+  display: row;
+  align-items: center;
+  justify-content: center;
+}
+.label {
+  display: box;
+}
+.button {
+  display: flex;
+  margin-top: 20px;
+}
+.p {
+  margin: 5px;
+}
